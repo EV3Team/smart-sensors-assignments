@@ -5,7 +5,7 @@ LEGO Mindstorms EV3를 활용한 자율주행 로봇 제어 시스템입니다. 
 
 ## 프로젝트 이미지
 <div align="center">
-  <img src="image/image.png" width="60%" alt="프로젝트 설명 이미지">
+  <img src="image/image.png" height="400" alt="프로젝트 설명 이미지">
 </div>
 
 ## 주요 기능
