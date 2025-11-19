@@ -4,7 +4,9 @@
 LEGO Mindstorms EV3를 활용한 자율주행 로봇 제어 시스템입니다. 다양한 센서를 통합하여 색상 인식 기반 경로 추적, 장애물 회피, 그리고 복잡한 주행 패턴을 구현합니다.
 
 ## 프로젝트 이미지
-![프로젝트 설명 이미지](image/image.png)
+<div align="center">
+  <img src="image/image.png" width="60%" alt="프로젝트 설명 이미지">
+</div>
 
 ## 주요 기능
 
